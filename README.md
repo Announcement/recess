@@ -1,7 +1,10 @@
-RECESS - NO LONGER MAINTAINED, DOES NOT WORK WITH NEWER LESS VERSIONS [![Build Status](https://secure.travis-ci.org/twitter/recess.png)](http://travis-ci.org/twitter/recess)
+RECESS - DOES NOT WORK WITH NEWER LESS VERSIONS [![Build Status](https://secure.travis-ci.org/twitter/recess.png)](http://travis-ci.org/twitter/recess)
 ======
 
-
+## Reserection Underway
+> # Make sure to send plunty of pull requests
+> - I'm actually new to the repository, but a long time user, just found nothing that I don't find perfect (I also don't use less)
+> - Blow up my twitter at @announcesuccess
 
 Developed at Twitter to support our internal styleguide, RECESS is a simple, attractive code quality tool for CSS built on top of LESS.
 
